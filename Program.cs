@@ -11,7 +11,7 @@ namespace Hospitaal
 			medico z = new medico();
 			Console.WriteLine
 				
-			
+			string integrantes = "Hector godoy y marcos castellanos" 
 			
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);
